@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/0MY3QWT/s.webp",
+        "title": "Bolso de mano color Anaranjado",
+        "price": 10000,
+        "category": "Mujeres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/xD8Q62J/s.jpg",
+        "title": "Conjunto de invierno para hombre",
+        "category": "Hombres",
+        "price": 55000,
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 8
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/74WDTKR/s.webp",
+        "title": "Bolso de mano color Azul",
+        "price": 7000,
+        "category": "Mujeres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/YhZwRf7/s.jpg",
+        "title": "Conjunto de verano para niño",
+        "price": 20000,
+        "category": "Niños",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 11
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/5vfXyWD/s.webp",
+        "title": "Top estilo deportivo color Anaranjado",
+        "price": 12000,
+        "category": "Mujeres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/51kqq1v/s.jpg",
+        "title": "Bolso de mano color Ladrillo",
+        "price": 8000,
+        "category": "Niños",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 15
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/d6ZLL5g/s.webp",
+        "title": "Conjunto estilo azafata",
+        "price": 27000,
+        "category": "Mujeres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 50
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/2KG2RV6/screen.jpg",
+        "title": "Conjunto de verano para Hombre",
+        "price": 42000,
+        "category": "Hombres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 15
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/VjpQ6TW/s.webp",
+        "title": "Conjunto de primavera para Mujer",
+        "price": 35000,
+        "category": "Mujeres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/mN86pVy/s.webp",
+        "title": "Conjunto de verano tonos azul para Mujer",
+        "price": 42000,
+        "category": "Mujeres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 20
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/2vz8k0s/s.jpg",
+        "title": "Conjunto de verano para niño (2)",
+        "price": 20000,
+        "category": "Niños",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 18
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/89FzMK5/s.jpg",
+        "title": "Conjunto de Jean para Hombre",
+        "price": 38000,
+        "category": "Hombres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 12
+    },
+    {
+        "id": 13,
+        "image": "https://i.ibb.co/826jY3J/s.webp",
+        "title": "Conjunto de otoño para Mujer",
+        "price": 50000,
+        "category": "Mujeres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 1
+    },
+    {
+        "id": 14,
+        "image": "https://i.ibb.co/yN4nL9D/s.jpg",
+        "title": "Vestido a rayas de colores para niñas",
+        "price": 5000,
+        "category": "Niños",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "image": "https://i.ibb.co/pW0Ljh2/s.jpg",
+        "title": "Bóxer para hombres NEWART",
+        "price": 1500,
+        "category": "Hombres",
+        "itHasDues": true,
+        "isAnOffer": true,
+        "stock": 11
+    }
+  ]
+  

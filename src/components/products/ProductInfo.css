@@ -1,0 +1,9 @@
+/* ProductInfo.css */
+.custom-modal {
+    background-color: #ee413bff;
+    z-index: 1000;
+}
+
+.swal2-container {
+    z-index: 2000 !important;  /* Asegúrate de que el zIndex de SweetAlert sea más alto */
+}
