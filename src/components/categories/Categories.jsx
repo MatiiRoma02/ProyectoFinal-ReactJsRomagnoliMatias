@@ -50,7 +50,7 @@ const Categories = () => {
 
   return (
     <div className="container" sx={{ backgroundColor: "#ee413bff" }}>
-      <AnimatedTypography variant="h2">TODAS LAS CATEGORIAS:</AnimatedTypography>
+      <AnimatedTypography variant="h2">TODAS LAS CATEGORIAS✨:</AnimatedTypography>
 
       {data.map((category, index) => (
         <AnimatedCard
